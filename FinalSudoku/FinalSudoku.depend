@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1364472699 source:c:\users\osos\documents\codeblocks\finalsudoku\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+	"printfromfile.h"
+	"printsudoku.h"
+	"checkError.h"
+	"Unfilledfinder.h"
+	"Solvesudoku.h"
+
+1364249541 c:\users\osos\documents\codeblocks\finalsudoku\printfromfile.h
+
+1364252281 c:\users\osos\documents\codeblocks\finalsudoku\printsudoku.h
+
+1364347088 c:\users\osos\documents\codeblocks\finalsudoku\checkerror.h
+
+1364346863 c:\users\osos\documents\codeblocks\finalsudoku\unfilledfinder.h
+
+1364353384 c:\users\osos\documents\codeblocks\finalsudoku\solvesudoku.h
+
