@@ -1,2 +1,2 @@
 # Suduko-Solver
-A C++ program I built in 2013 to solve a sudoku puzzle
+A C++ program I built in 2013 to solve a sudoku puzzle (text input)
